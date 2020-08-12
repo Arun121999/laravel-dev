@@ -25,5 +25,8 @@ class HomeController extends Controller
     {
         //dd(Auth());die;
         return view('home');
+
+
+        
     }
 }
